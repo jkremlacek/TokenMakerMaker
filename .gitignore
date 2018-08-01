@@ -6,4 +6,4 @@ build
 repo
 .gradle
 Thumbs.db
-
+.idea
