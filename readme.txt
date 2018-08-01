@@ -1,3 +1,8 @@
+# BUILD FIX
+
+see https://github.com/bobbylight/TokenMakerMaker/issues/10#issuecomment-409541850
+
+
 TokenMakerMaker README
 ----------------------
 
